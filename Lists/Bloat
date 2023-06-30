@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 867
-# Updated: 6/26/2023  08:17 (8:17 AM CST)
+# Domains: 868
+# Updated: 6/30/2023  16:23 (4:23 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
@@ -107,6 +107,7 @@ fonts.65twenty.com                                      #Font  Specific
 fonts-api.wp.com                                        #Font  Specific
 fonts.autodesk.com                                      #Font  Specific
 fonts.blackbookinformation.com                          #Font  Specific
+font-public.canva.com                                   #Font  Specific
 fonts.bunny.net                                         #Font  Specific
 fonts.cb-intl.tech                                      #Font  Specific
 fonts.channel4.com                                      #Font  Specific
