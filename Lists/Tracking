@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 68,006
-# Updated: 6/29/2023  16:55 (4:55 PM CST)
+# Domains: 68,005
+# Updated: 6/29/2023  23:54 (11:54 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -67989,7 +67989,6 @@ zombaline.com
 zom.uszometa.com
 zontol3.xyz
 zoomanalytics.co
-zoominfo.com
 zoomph.com
 zoorate.com
 zootopia-tracking.prod.zooplus.net
