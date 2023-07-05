@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 19,104
-# Updated: 6/30/2023  08:46 (8:46 AM CST)
+# Domains: 19,108
+# Updated: 7/5/2023  00:54 (12:54 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -1252,6 +1252,9 @@ addrawtech.com
 addrevenue.io
 addroid.com
 addroplet.com
+addthiscdn.com
+addthis.com
+addthisedge.com
 ad.duga.jp
 adduplex.com
 addvantagemedia.com
@@ -15742,6 +15745,7 @@ sam4mobile.com
 samfilm.markend.is
 samsungadhub.com
 samsungads.com
+samsungrs.com
 samsungtvads.com
 samvaulter.com
 sandnesdigitalmarketing.com
