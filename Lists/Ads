@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 19,108
-# Updated: 7/5/2023  00:54 (12:54 AM CST)
+# Domains: 19,109
+# Updated: 7/5/2023  11:40 (11:40 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -1667,6 +1667,7 @@ ad.joao2507.com
 ad.joinbed.com
 ad.jpk.kz
 ad.jschina.com.cn
+adjsimg.xyz
 adjug.com
 adjuggler.com
 ad.jump-to.link
